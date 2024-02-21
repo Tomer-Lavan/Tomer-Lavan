@@ -1,8 +1,2 @@
-- 👋 Hi, I’m @Tomer-Lavan
-
-I’m currently learning Computer Science in Reichman University (IDC)
-
-<!---
-Tomer-Lavan/Tomer-Lavan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello 👋,
+I'm a Software Developer specializing in Full Stack development, with a Bachelor of Science in Computer Science from Reichman University. While my GitHub may not currently showcase all my work, I'm excited to start uploading my projects soon. Keep an eye out for new stuff!
